@@ -13,8 +13,4 @@ Technologies : JavaScript, HTML
 
 IDE : VSCode
 
-OS : Windows 
-
-## Utilisation 
-
-S'exécute via Live Server
+OS : Windows
