@@ -18,4 +18,4 @@ OS : Windows
 
 ## Utilisation
 
-S'exécute via la Console
+S'exécute via la console
