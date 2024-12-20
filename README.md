@@ -16,6 +16,6 @@ IDE : VSCode
 
 OS : Windows
 
-## Utilisation 
+## Utilisation
 
 S'exécute via la Console
