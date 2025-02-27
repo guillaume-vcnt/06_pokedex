@@ -8,8 +8,6 @@ Le but de cet exercice individuel est de travailler le parsing de données mais 
 
 État du projet : En cours
 
-Nombre de participants : 1
-
 Technologies : JavaScript
 
 IDE : VSCode
