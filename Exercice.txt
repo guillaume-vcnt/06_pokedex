@@ -7,7 +7,7 @@ console.log(names);
 ➡️ Sélectionne un Pokémon aléatoire et affiche son nom.
 const randomIndex = Math.floor(Math.random() * array.length);
 const randomPokemon = array[randomIndex];
-console.log(randomPokemon.name);
+console.log("🎲", randomPokemon.name);
 
 3. .filter()
 ➡️ Récupère uniquement tous les Pokémon de type "Fire".
